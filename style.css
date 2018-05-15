@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#thing {
+    width: 99vw;
+    height: 99vh;
+}
+#dots {
+    transition: transform 1s;
+}
+#dots circle {
+    fill: blue;
+}
